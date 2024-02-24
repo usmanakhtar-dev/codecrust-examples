@@ -20,7 +20,7 @@ Feel free to explore the articles above by clicking on the links. Each link will
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/codecrust-examples.git
+   git clone https://github.com/usmanakhtar-dev/codecrust-examples.git
 
 2. Navigate to the desired article directory:
   
